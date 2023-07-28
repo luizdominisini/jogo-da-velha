@@ -2,5 +2,5 @@
 Um simples jogo da velha, se divirtra!!
 
 # Link para jogar
-jogo-da-velha-beige.vercel.app
+<a href='jogo-da-velha-beige.vercel.app'>Jogo da velha</a>
 
